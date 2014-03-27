@@ -1,0 +1,9 @@
+000-introduccion.txt
+010-como_aprendemos.txt
+020-organizando_el_curso.txt
+030-conexion.txt
+040-concepto.txt
+050-concrecion.txt
+060-conclusion.txt
+170-apendices.txt
+200-referencias.txt

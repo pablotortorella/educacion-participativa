@@ -1,0 +1,77 @@
+# ¿Cómo aprendemos? {#comoaprendemos}
+
+## ¿Cuál fue tu mejor experiencia de aprendizaje?
+
+Dedica unos minutos a recordar tu mejor experiencia de aprendizaje. ¿Cómo fue? Si hubo un educador, ¿qué hacía? En tu caso como educando, ¿escuchabas?, ¿hablabas con el educador o con tus compañeros? ¿practicabas lo aprendido? ¿O algo distinto?
+
+Y ya que estamos, ¿cuál fue tu peor experiencia?
+
+## Cómo aprendemos
+
+### Construyendo nuestro saber
+
+En este momento hay consenso (ver [Ágil Mente](#bibliografia) y [Training from the Back](#bibliografia)) que aprendemos a partir de nuestras experiencias y conocimiento, construyendo nuevos conocimientos gracias a nuestro interés en aprender.
+
+Algunas consecuencias de esto es que podemos facilitar el aprendizaje si logramos que los estudiantes relacionen los nuevos conceptos con los conocimientos previos que *cada uno de ellos* tiene. No es efectivo si tratamos de hacer la conexión nosotros por ellos.
+
+Otra consecuencia es que sólo podemos aprender efectivamente si nos interesa, ya que el 'trabajo' de hacer la conexión con lo conocido es algo que sólo puede hacer cada uno. La curiosidad juega en este proceso, según Paulo Freire en [Pedagogía de la Autonomía](#bibliografia), un rol fundamental.
+
+
+### No todos somos iguales
+
+Por otro lado, no todos aprendemos de la misma manera. Nuestros cinco sentidos están activos cuando aprendemos, pero cada uno de nosotros es más sensible o está más enfocado a alguno de ellos. Se considera que las 3 principales formas de aprendizaje son la visual, auditiva y cinética (el movimiento de nuestro cuerpo).
+
+Dependiendo del tipo de conocimiento o capacidad que queremos aprender y nuestras características personales, alguna de las formas de aprendizaje puede ser mejor que otras. En cualquier caso, el aprendizaje combinando las tres formas suele ser lo que más impacto crea.
+
+
+## Aprendemos, ¿Y recordamos?
+
+Luego que nos dicen un número de teléfono, ¿lo recordamos?, ¿y luego de 15 minutos?, ¿mañana?
+
+Tenemos distintos tipos de memoria, y lo que aprendimos, podemos olvidarlo con mayor o menor rapidez. Esta característica se investigó y se sigue investigando, no habiendo un entendimiento completo de cómo funciona nuestra memoria, pero hay una serie de características conocidas con la memoria:
+
+Último y primero
+: Las secuencias largas son difíciles de recordar, ya sea que las escuchemos, las veamos o las sintamos. Cuando ocupamos toda nuestra memoria de corto plazo, el nuevo conocimiento desplaza parte de la información. Tenemos una tendencia a recordar primordialmente la última parte de la secuencia, después la primera parte, y lo que menos recordamos es la parte el medio de la secuencia. Si querés comprobarlo, tomá una lista de más de 20 de nombres o números y, luego de leerlos, anotá los que te acordás. 
+
+Emociones
+: Recordamos más claramente lo que estuvo ligado a emociones fuertes, como alegría o miedo.
+
+Repetición
+: Al repetir lo aprendido ayudamos a su memorización. Mejor aún si lo hacemos desde distintos puntos de vista y actividades (ejercicios, resúmenes, explicación a otros). Por ejemplo, en el aprendizaje de un idioma, luego de haber aprendido una palabra o construcción gramatical, usarlo continuamente en los día subsiguientes te ayudará a incorporarlo definitivamente a tu vocabulario.
+
+Dibujar
+: Para muchos estudiantes realizar un resumen gráfico de los conceptos, relacionándolos espacialmente y buscando representaciones visuales, facilita la retención. El proceso de buscar una equivalencia visual o símbolo, como también pensar en las relaciones con los otros es conceptos es un ejemplo del patrón recurrente que ayuda al aprendizaje: relacionar con conocimientos pasados, expresar con otros términos.
+
+## ¿Ayuda o dificulta...?
+
+Algunas características generales del entorno y de la vivencia pueden ayudar o dificultar el aprendizaje:
+
+Espacio seguro
+: Un ambiente donde podemos experimentar con ideas y acciones nuevas sin riesgos grandes facilita que vayamos más allá de nuestros límites. La seguridad tiene aspectos emocionales y físicos, por ejemplo si pensamos que nuestros compañeros se burlarán de nuestros errores o si estamos aprendiendo a manejar un automóvil y estamos en una calle con mucho tránsito. 
+
+Riqueza sensorial
+: El aprendizaje sólo se produce cuando prestamos atención, y no podemos prestar atención a un solo estimulo sensorial por mucho tiempo. Para mantenernos enfocados debemos variar entre actividades visuales, auditivas y cinéticas, tener un ambiente colorido, escuchar y hablar, enseñar y aprender, resumir y contar historias, estar sentados, parados o caminar.
+
+Exceso sensorial
+: Mucho ruido o variaciones visuales muy rápidas son negativas para el aprendizaje. Buscamos un balance con respecto al punto anterior, y este balance es distinto para cada persona.
+
+Comodidad
+: Estar cómodos facilita el aprendizaje. Esto incluye desde la iluminación, asientos, bebida y comida como la duración entre intervalos y el movimiento. Por ejemplo, un curso de día completo en el que no tenemos bebida o comida a intervalos regulares o en el que nos mantenemos sentados todo el día provoca incomodidad. Si nos mantenemos siempre sentados, además de la incomodidad, tendremos disminución del flujo de sangre al cerebro, y por ende somnolencia. 
+
+Tiempos
+: Las actividades no deben ser largas, para mantener la atención y el foco. Luego de 40-60 minutos es conveniente hacer intervalos. Puede alternarse intervalos breves (5 minutos)  y largos (15 minutos). Las actividades de leer o escuchar deben ser de menos de 20 minutos.
+
+
+X>### Cómo son tus cursos
+X> ¿Cuánto tiempo dedicas en tus clases a estas actividades?
+X> 
+X> * El docente habla usando un proyector y una presentación de computadora 
+X> * Los estudiantes trabajan en grupos enseñando y aprendiendo entre ellos
+X> * El docente presenta el tema usando una pizarra, dibujando los conceptos
+X> * Los estudiantes leen material
+X> * Los estudiantes ven un video
+X> * Los estudiantes aplican lo aprendido o discuten los conceptos. 
+X>
+X> ¿Cómo cambiarías considerando lo aprendido en este capítulo?
+
+

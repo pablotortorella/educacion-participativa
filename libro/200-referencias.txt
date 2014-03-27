@@ -1,0 +1,27 @@
+# Referencias y bibliografía
+
+## Bibliografía {#bibliografia}
+
+ÁgilMente
+: Estanislao Bachrach, Editorial Sudamericana, 2012
+
+Training from the Back of the Room
+: Sharon Bowman, Pfeiffer, 2008
+
+Pedagogía de la Autonomía
+: Paulo Freire, Paz e Terra, 1998
+
+The Social Life of Information:
+: John Seely Brown, Paul Duguid,Harvard Business Review Press,2000
+
+Leading Lean Software Development
+: Mary y Tom Poppendieck, Addison-Wesley Professional, 2009
+
+Software for Your Head: Core Protocols for Creating and Maintaining Shared Vision
+: Jim McCarthy, Michele McCarthy 
+
+## Referencias y material adicional##
+
+* Experiencia de Educación Participativa con chicos de Bariloche, Argentina, por Fernando Claverino: http://www.nahual.com.ar/repasando-lo-que-aprendimos/
+
+* Resúmen de las 4C, por Ingrid Astiz: http://www.fuerzatres.com/category/ensenar-aprender/

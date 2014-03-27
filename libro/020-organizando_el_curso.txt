@@ -1,0 +1,104 @@
+# ¿Cómo organizamos los contenidos de un curso?
+
+Como hablamos en el capítulo anterior, para lograr un aprendizaje efectivo se necesita mucho más que contar o mostrar el concepto.
+
+En este capítulo presentaremos una forma de organizar un curso que se alinea con la manera en que aprendemos. Por eso Sharon Bowman en [Training from the Back of the Room](#bibliografia) se refiere a una manera de enseñar amigable para el cerebro (*brain-friendly*).
+
+Tomamos la definición y los términos que utiliza [Training from the Back of the Room](#bibliografia) para referirse a las etapas del aprendizaje.
+
+Conexión (*connection*)
+: Son las actividades destinadas a que los estudiantes se conecten con los otros estudiantes, con el tema general, dentro del tema, con lo que se incluirá en el curso, y con lo que ellos quieren aprender.
+
+Concepto (*concept*)
+: Los estudiantes incorporan nuevos conocimientos viendo, escuchando, discutiendo, dibujando, analizando, actuando y explicando a otros.
+
+Práctica concreta (*concrete practice*)
+: Los estudiantes practican activamente la destreza o participan en discusiones sobre el nuevo conocimiento.
+
+Conclusión (*conclusion*)
+: Los estudiantes resumen, evalúan, celebran y planean cómo aplicar el conocimiento adquirido en su día a día.
+
+{width=75%}
+![Ejemplo de organización 4C como agenda](images/agenda-curso-4c.jpg)
+
+En el resto del capítulo comentaremos más sobre las 4C, pero antes, debemos hablar sobre los objetivos de enseñanza.
+
+## Objetivos y audiencia
+
+Antes de planear el curso, debemos pensar en cuales son los objetivos mínimos de la capacitación y cuanto saben los asistentes sobre estos objetivos.
+
+### Objetivos
+Según [The Social Life of Information](#bibliografia), podemos tener dos tipos de conocimiento:
+Saber sobre (*know about*)
+: Es el conocimiento sin la capacidad de aplicarlo a situaciones reales. Por ejemplo, es lo que podemos obtener asistiendo a una charla en la que no tenemos oportunidad de aplicar lo aprendido, o lo que obtenemos de la lectura de un libro. Este conocimiento puede ser la base a partir de la cual contruir *Saber cómo*.
+
+Saber cómo (*know how*)
+: Es la capacidad de aplicar el conocimiento y resolver los problemas de su aplicación. Se obtiene por medio de la práctica consciente, la aplicación en múltiples situaciones reales y en el intercambio de información con pares de una comunidad de práctica. Ver también Deep Expertise en pag. 89 de [Leading Lean Software Development](#bibliografia)
+
+A> #### Patinar con rollers
+A>  
+A> Luego de años de acompañar a su mujer y su hija a patinar, y ante la continua insistencia de ellas, Mariano decidió aprender a patinar para poder compartir esta actividad en familia.
+A> Siendo una persona metódica y ordenada, se tomó el aprendizaje en serio, consiguió material de lectura sobre el tema, videos de enseñanza y avanzados, consultó y compró el patín correcto para su altura y peso.
+A> Luego de ver los videos varias veces, habiendo entendido y teniendo bien presente lo necesario para patinar, consideró que estaba preparado para su primera patinada.
+A> 
+A> Todo empezó bien, hasta que Mariano quizo girar, sin considerar la velocidad en el que venía dejando el pié apoyado en el piso. El resultado fue una pierna quebrada y 45 días de reposo y recuperación.
+A> 
+A> Un ejemplo doloroso de la diferencia entre *saber sobre* y *saber cómo*. 
+
+
+
+### Audiencia
+
+Un aspecto importante es cuánto saben los asistentes del tema. Esto influirá la forma de conexión, cuanto concepto debe incluirse, y cuanto desafío en la práctica.
+
+Un modelo de los estadíos de estudiante es Shu-ha-ri[^Shuhari]:
+
+Shu
+: El estudiante no sabe nada y debe aprender lo básico, siguiendo las reglas al pie de la letra. No tiene capacidad para comprender las motivaciones de las reglas. Seguirá en Shu hasta que domine y tenga incorporadas las habilidades básicas. En el ámbito laboral, una persona que está en Shu puede hacer trabajos en los que estén claros los pasos y ante imprevistos debe consultar con alguien de más experiencia, pero no siempre pide ayuda. Por ello el mentor o maestro debe estar atento e ayudar al alumno a detectar los bloqueos o situaciones que se apartan de las reglas. En Karate Kid, es momento en que el maestro le indica como [limpiar el auto](http://www.youtube.com/watch?v=SMCsXl9SGgY).
+
+Ha
+: El estudiante debe ir más allá de las reglas, extenderlas, aprender reglas (técnicas) nuevas. Entiende la motivación de las reglas, y ante una situación puede elegir que reglas o prácticas son más apropiadas. Ante situaciones inesperadas, puede buscar alternativas, y pedir ayuda. En Karate Kid, cuando aprende la [técnica de la grulla](http://www.youtube.com/watch?v=aRqKBaoCs2w).
+
+Ri
+: Es ya un maestro (en el sentido de maestro artesano), no está atado a las reglas. No necesita reglas, ante una situación novedosa hace 'lo que es apropiado', crea nuevas técnicas a medida que las necesita y tiene dificultad en explicar el por qué,  En Karate Kid, se puede ver en la escena en que Miyagi [defiende al alumno de la otra escuela](http://www.youtube.com/watch?v=27qp189oiFo).
+
+I> ### Otros modelos de aprendizaje
+I>
+I> * Competencia consciente o cuatro niveles de competencia
+I> * Modelo Dreyfus
+
+
+  [^Shuhari]: **Shu-Ha-Ri** Más información en http://c2.com/cgi/wiki?ShuHaRi y un divertido ejemplo para testing de software en http://googletesting.blogspot.com.ar/2010/07/code-coverage-goal-80-and-no-less.html
+
+
+## Las 4C
+
+Las 4C son una guía para organizar el curso. Se plantea una secuencia de conexión, normalmente algo corto (menos de 5 minutos), seguido del concepto (aproximadamente 15 minutos), luego la aplicación práctica de lo aprendido.
+Se finaliza el tema con un resumen, o un llamado a la acción, por ejemplo que cada estudiante piense 'qué planeo llevar a la práctica'.
+
+Esta forma de planificar lleva que la clase tenga un flujo y continuidad dentro de cada tema. Pero ese flujo no necesariamente surge de nuestro primer intento.
+El diseño del curso es un proceso creativo; damos espacio inicialmente a la divergencia y la generación de ideas, luego trabajamos en la convergencia: seleccionamos, y ordenamos. Para esto pueden usarse PostIts como está indicado en la imagen que está al inicio de este capítulo.
+    
+En los capítulos siguientes se comentan más detalles sobre cada una de las 'C', con prácticas específicas. Vale recordar que la variedad y el cambio ayudan al aprendizaje, por lo que es bueno usar distintas técnicas a lo largo del curso.
+
+En los casos de presentaciones para lograr 'saber sobre', la parte práctica puede ser reducida o eliminada.
+
+Las 4C nos llevan a poner el foco en los objetivos esenciales del curso (*need to know*). El contenido opcional (*nice to know*) se puede dejar para actividades fuera del curso: apéndices del material impreso, referencias a libros, videos, etc.
+
+Recordemos que la repetición (con variaciones) es importante para que el conocimiento sea recordado, por lo que -al elegir- probablemente prioricemos insistir más sobre los conocimientos esenciales antes que dar un contenido opcional.
+
+W> **Tener en cuenta**
+W>
+W> El tiempo en los cursos es un recurso escaso.
+W>
+W> Seamos críticos: ¿Esta actividad aporta para lograr el aprendizaje de los conocimientos esenciales?
+W> ¿Quiero cumplir el temario o quiero que aprendan?
+W>
+
+
+X> **¿Puedo aplicarlo a mis cursos?**
+X>
+X> * Si por causas de fuerza mayor el curso que estoy dando debe finalizar a la mitad, ¿qué conocimiento quiero que tengan los alumnos?
+X> * De los temas o actividades restantes, ¿Cuáles puedo quitar porque no aportan a los objetivos de curso? ¿Cuáles puedo llevar fuera del curso con material adicional?
+X> * ¿Puedo hacer alguno de estos cambios ya mismo?
+

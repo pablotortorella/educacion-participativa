@@ -1,0 +1,45 @@
+# Concreción
+
+También denominado "Práctica Concreta", es el momento del curso en la cual los alumnos utilizan los conceptos, los llevan a la acción en primera persona.
+
+Es entonces en la concreción, cuando los alumnos tienen la oportunidad de demostrarse -a sí mismos y a sus compañeros- si entendieron fehacientemente los detalles esenciales del contenido.
+
+
+## Acerca de la Reflexión y la creación
+
+Freire habla acerca de dar lugar a la creación por parte de los educandos, como acción necesaria en el proceso de aprendizaje, y no solamente de impartir conocimientos. En ese sentido, es también en este momento en el cual se genera ese espacio que posibilita a los alumnos, descubrir detalles del objeto de estudio que en etapas anteriores quedaban ocultos y re-descubrir la implicancia subjetiva de los mismos, para con sus contextos particulares.
+Por ejemplo, si estamos practicando la escritura compartida de un libro (con el lenguaje común y el estilo como conceptos clave), puede proponerse a los alumnos que se reúnan en parejas y que ambos integrantes escriban temas relacionados entre sí, que deberán conformar un único texto. Algunas parejas escribirán inicialmente por separado y luego reunirán los textos y unificarán estilos; otras definirán el vocabulario específico y el tiempo verbal de antemano, otros lo irán haciendo durante la escritura misma, leyendo uno y otro texto en estadíos intermedios.
+Esta actividad puede llevar a los alumnos, a reflexionar sobre la importancia de las expectativas establecidas de forma temprana, otros pensarán que tendrán que sugerir o establecer cierto tipo de estándares en su trabajo del día a día, otros reflexionarán sobre la importancia de la comunicación fluida durante los procesos de trabajo en equipo. Y así, puede haber infinidad de pensamientos, referencias y potenciales aplicaciones de los conceptos, más allá de cuestiones de conceptos clave como el estilo y el lenguaje común.
+
+Volviendo a Freire, la creación aparece en el ejemplo en dos niveles: la escritura de un texto que antes no existía, en primera instancia, y luego el descubrimiento de nuevos parámetros a tener en cuenta durante el proceso de escritura conjunta.
+
+## Acerca de la interacción
+
+Creemos que la importancia de la interacción de los alumnos, no solamente con el facilitador o educador, sino también entre ellos, resulta clave en el proceso cognitivo. Desde varias corrientes teóricas se resalta este aspecto social del aprendizaje, reconocible en grupos de alumnos de jardín de infantes, así como también entre hermanos y amigos desde la infancia misma.
+Lev Vygotsky, un psicólogo ruso especialista en psicología del desarrollo, plantea este tema desde su disciplina, identificándolo como "Zona de desarrollo próximo". Resumido en pocas palabras, plantea que un alumno aprovechará mejor su potencial para aprender, si interactúa con sus colegas de aprendizaje, además del tradicional vínculo con el educador. Asimismo, afirma que esto también es válido para la actividad laboral: un empleado será más productivo y su trabajo tendrá más calidad si hay interacción con sus pares, además del vínculo con su jefe. Se trata de un mayor aprovechamiento del potencial de los individuos, dado por el apalancamiento de su contexto. Vemos cumplirse esta teoría sobre todo en equipos auto-organizados de estudio y de trabajo, donde el clima que predomina es de colaboración, más que en ambientes donde rige la competencia entre individuos.
+
+## Prácticas
+
+Hacer
+: Si estamos aprendiendo a programar, en esta etapa los alumnos serán invitados a programar. Si estamos aprendiendo una metodología, entonces se propondrá una situación con un objetivo puntual y que los alumnos deban intentar resolverlo utilizando dicha metodología. De igual manera, si el objeto de estudio fuera algo técnico, se propondrá uno o más ejercicios -tal vez crecientes en complejidad- que requieran de la utilización de dicha cuestión técnica.
+
+Enseñanza a los demás compañeros
+: *"Cuando uno enseña, dos aprenden"* es una frase que representa el espíritu de este tipo de actividad. Consiste en plantear a los alumnos que se tomen el tiempo de explicar, unos a otros, los conceptos vistos anteriormente. La actividad de enseñar implica repensar la esencia del objeto de estudio, a la vez de identificar sus complejidades y límites, entre otros parámetros. Este análisis, necesario para poder explicar cualquier concepto en un tiempo acotado, permite a los alumnos preguntarse por los detalles, repasar vocabulario, repensar los niveles de abstracción o potenciales subtemas en los cuales pueda desglosarse el concepto. Adicionalmente, los demás alumnos estarán presenciando una repetición -con variación- de los conceptos esenciales del curso.
+
+Dibujar
+: Esencialmente guiada por la forma cinética o kinestésica de aprendizaje y con un fuerte matiz visual, la actividad de dibujar o esquematizar algo relacionado con los conceptos, suele ser de ayuda para un mejor entendimiento y una mejora en la probabilidad de recordar tanto la esencia como algunos detalles. La actividad consiste en invitar a los alumnos que realicen un resumen gráfico o bien que grafiquen o esquematicen una situación en la cual se apliquen los conceptos. Puede ser individual o grupal, siendo importante remarcar que es en la práctica compartida cuando mejores resultados se obtienen. Tanto si elegimos la actividad individual como en el caso del trabajo en equipos, esta puede ser complementada con una actividad de cierre llamada "Caminata por la galería" (*Gallery Walk*), en la cual todo el grupo -facilitador y alumnos- recorren, uno a uno, los dibujos realizados por los alumnos, pudiendo ser explicado por el autor (o los autores), o bien interpretados por los demás compañeros, que tienen el lugar de público.
+
+Representación teatral
+: A partir de la representación de los conceptos utilizando el propio cuerpo y las propias expresiones (habladas, gesticuladas, discutidas), dichos conceptos se incorporan -literalmente- y esto permite que haya una mayor probabilidad de entenderlos mejor y de recordarlos a futuro.
+: La actividad consiste en reunir a los alumnos en pequeños grupos, e invitarlos a que lleven adelante la creación de una situación para representar. Se puede dejar libre el proceso o se les puede pedir que piensen (y tal vez escriban) el guión. Algunos alumnos posiblemente se interesen más en la redacción y en la creación de la situación, más que con la representación. Otros estarán felices de actuar y mostrarse, otros serán más indiferentes a este tipo de expresión artística.
+
+Preguntas cruzadas
+: Esta actividad puede ser usada en otros momentos del curso. La acción de preguntar suele ser disparadora de múltiples pensamientos adicionales y de nuevos puntos de vista, con respecto al objeto de la pregunta. Lleva a quien la formula, a la reflexión acerca de la identificación de la respuesta esperada o *correcta* -si es que existiera tal calificación en su contexto-, así como también de otras potenciales respuestas.
+: La actividad consiste en pedirles a todos los alumnos que piensen y escriban una pregunta al respecto de los conceptos en estudio. Luego de unos minutos, cada uno deberá pasarle su pregunta a otro compañero, por ejemplo si estuvieran en una ronda, al compañero de su izquierda. Así, todos tendrán una pregunta para escribir y una para responder. Se les da tiempo para que respondan y luego otro tiempo para que conversen y se corrijan, feliciten o complementen, a partir de las respuestas esperadas, al momento de la formulación.
+
+Estaciones de aprendizaje
+: Esta actividad también puede utilizarse en otros momentos del curso, como podría ser en [Concepto](#concepto). Se plantean actividades prácticas en cada estación de aprendizaje y los alumnos, van rotando en grupos de una a otra. Las actividades propuestas suelen ser auto-contenidas: no deberían requerir de un facilitador. Más allá de esto, es conveniente que el facilitador del curso esté disponible para que los alumnos puedan resolver sus inquietudes, tanto de forma como de contenido. En cada estación puede haber algún material (texto o video, por ejemplo) a partir del cual llevar adelante alguna actividad, o bien puede haber simplemente la descripción de la actividad que se invita a realizar.
+
+![Práctica individual](images/practica_1.jpg)
+
+![Enseñandonos de a pares](images/practica_2.jpg)
