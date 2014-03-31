@@ -28,7 +28,7 @@ Dependiendo del tipo de conocimiento o capacidad que queremos aprender y nuestra
 
 Luego que nos dicen un número de teléfono, ¿lo recordamos?, ¿y luego de 15 minutos?, ¿mañana?
 
-Tenemos distintos tipos de memoria, y lo que aprendimos, podemos olvidarlo con mayor o menor rapidez. Esta característica se investigó y se sigue investigando, no habiendo un entendimiento completo de cómo funciona nuestra memoria, pero hay una serie de características conocidas con la memoria:
+Tenemos distintos tipos de memoria, y lo que aprendimos, podemos olvidarlo con mayor o menor rapidez. Esta característica se investigó y se sigue investigando, no habiendo un entendimiento completo de cómo funciona nuestra memoria, pero hay una serie de características conocidas sobre la memoria:
 
 Último y primero
 : Las secuencias largas son difíciles de recordar, ya sea que las escuchemos, las veamos o las sintamos. Cuando ocupamos toda nuestra memoria de corto plazo, el nuevo conocimiento desplaza parte de la información. Tenemos una tendencia a recordar primordialmente la última parte de la secuencia, después la primera parte, y lo que menos recordamos es la parte el medio de la secuencia. Si querés comprobarlo, tomá una lista de más de 20 de nombres o números y, luego de leerlos, anotá los que te acordás. 
@@ -40,7 +40,7 @@ Repetición
 : Al repetir lo aprendido ayudamos a su memorización. Mejor aún si lo hacemos desde distintos puntos de vista y actividades (ejercicios, resúmenes, explicación a otros). Por ejemplo, en el aprendizaje de un idioma, luego de haber aprendido una palabra o construcción gramatical, usarlo continuamente en los días subsiguientes te ayudará a incorporarlo definitivamente a tu vocabulario.
 
 Dibujar
-: Para muchos estudiantes realizar un resumen gráfico de los conceptos, relacionándolos espacialmente y buscando representaciones visuales, facilita la retención. El proceso de buscar una equivalencia visual o símbolo, como también pensar en las relaciones con los otros es conceptos es un ejemplo del patrón recurrente que ayuda al aprendizaje: relacionar con conocimientos pasados, expresar con otros términos.
+: Muchos estudiantes logran mayor retención al realizar un resumen gráfico de los conceptos, relacionándolos espacialmente y buscando representaciones visuales. El proceso de buscar una equivalencia visual o símbolo, como también pensar en las relaciones con los otros conceptos, es un ejemplo del patrón recurrente que ayuda al aprendizaje: relacionar con conocimientos pasados, expresar lo recientemente aprendido con otros términos.
 
 ## ¿Ayuda o dificulta...?
 
