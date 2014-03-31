@@ -14,7 +14,7 @@ En este momento hay consenso (ver [Ágil Mente](#bibliografia) y [Training from 
 
 Algunas consecuencias de esto es que podemos facilitar el aprendizaje si logramos que los estudiantes relacionen los nuevos conceptos con los conocimientos previos que *cada uno de ellos* tiene. No es efectivo si tratamos de hacer la conexión nosotros por ellos.
 
-Otra consecuencia es que sólo podemos aprender efectivamente si nos interesa, ya que el 'trabajo' de hacer la conexión con lo conocido es algo que sólo puede hacer cada uno. La curiosidad juega en este proceso, según Paulo Freire en [Pedagogía de la Autonomía](#bibliografia), un rol fundamental.
+Otra consecuencia es que sólo aprender efectivamente si nos interesa, ya que el 'trabajo' de hacer la conexión con lo conocido es algo que debe hacer cada uno. La curiosidad juega en este proceso, según Paulo Freire en [Pedagogía de la Autonomía](#bibliografia), un rol fundamental.
 
 
 ### No todos somos iguales
@@ -50,7 +50,7 @@ Espacio seguro
 : Un ambiente donde podemos experimentar con ideas y acciones nuevas sin riesgos grandes facilita que vayamos más allá de nuestros límites. La seguridad tiene aspectos emocionales y físicos, por ejemplo si pensamos que nuestros compañeros se burlarán de nuestros errores o si estamos aprendiendo a manejar un automóvil y estamos en una calle con mucho tránsito. 
 
 Riqueza sensorial
-: El aprendizaje sólo se produce cuando prestamos atención, y no podemos prestar atención a un sólo estimulo sensorial por mucho tiempo. Para mantenernos enfocados debemos variar entre actividades visuales, auditivas y cinéticas, tener un ambiente colorido, escuchar y hablar, enseñar y aprender, resumir y contar historias, estar sentados, parados o caminar.
+: El aprendizaje solamente se produce cuando prestamos atención, y no podemos prestar atención a un solo estimulo sensorial por mucho tiempo. Para mantenernos enfocados debemos variar entre actividades visuales, auditivas y cinéticas, tener un ambiente colorido, escuchar y hablar, enseñar y aprender, resumir y contar historias, estar sentados, parados o caminar.
 
 Exceso sensorial
 : Mucho ruido o variaciones visuales muy rápidas son negativas para el aprendizaje. Buscamos un balance con respecto al punto anterior, y este balance es distinto para cada persona.

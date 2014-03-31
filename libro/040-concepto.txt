@@ -1,4 +1,4 @@
-# Concepto {#concepto}
+## Concepto {#concepto}
 
 En cursos tradicionales, el docente dedica la mayoría de su tiempo en explicar conceptos. Aquí planteamos que hay mejores estrategias si queremos que aprendan, no sólo que escuchen sobre el tema y -eventualmente- tomen apuntes.
 

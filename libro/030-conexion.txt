@@ -1,4 +1,4 @@
-# Conexión
+## Conexión
 
 El aprendizaje puede mejorarse mucho si creamos puentes entre nuestro conocimiento previo y lo que queremos aprender y con las personas que participan con nosotros en la experiencia del aprendizaje.
 
@@ -22,7 +22,6 @@ W>
 W> En el sentido tradicional, las actividades para romper el hielo están pensadas para genera un ámbito de confianza que facilite la comunicación entre los estudiantes y con el docente. Pero no tienen nada que ver con tema o los objetivos de aprendizaje.
 W>
 W> Y eso es un pérdida del valioso tiempo de capacitación. ¿Podemos hacer una actividad que conecte a los estudiantes y al mismo tiempo los conecte con el tema o con los resultados del aprendizaje?
-
 
 
 
