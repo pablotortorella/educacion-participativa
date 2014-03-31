@@ -1,4 +1,4 @@
-# Medios
+# Estilos y herramientas
 << este capítulo está en construcción >>
 
 ## Visual
@@ -8,4 +8,8 @@
 ## Audivisual
 
 ## Música
+
+## Storytelling
+
+
 

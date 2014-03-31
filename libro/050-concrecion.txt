@@ -16,6 +16,9 @@ Volviendo a Freire, la creación aparece en el ejemplo en dos niveles: la escrit
 ### Acerca de la interacción
 
 Creemos que la importancia de la interacción de los alumnos, no solamente con el facilitador o educador, sino también entre ellos, resulta clave en el proceso cognitivo. Desde varias corrientes teóricas se resalta este aspecto social del aprendizaje, reconocible en grupos de alumnos de jardín de infantes, así como también entre hermanos y amigos desde la infancia misma.
+
+En el capítulo Re-education del libro [The social life of information](#bibliografia), se comenta el método TVI (tutored video instruction), en el que se realiza enseñanza con videos, pero con la condición que sean vistos en grupo, y discutidos entre los miembros del grupo hasta lograr un entendimiento común.
+
 Lev Vygotsky, un psicólogo ruso especialista en psicología del desarrollo, plantea este tema desde su disciplina, identificándolo como "Zona de desarrollo próximo". Resumido en pocas palabras, plantea que un alumno aprovechará mejor su potencial para aprender, si interactúa con sus colegas de aprendizaje, además del tradicional vínculo con el educador. Asimismo, afirma que esto también es válido para la actividad laboral: un empleado será más productivo y su trabajo tendrá más calidad si hay interacción con sus pares, además del vínculo con su jefe. Se trata de un mayor aprovechamiento del potencial de los individuos, dado por el apalancamiento de su contexto. Vemos cumplirse esta teoría sobre todo en equipos auto-organizados de estudio y de trabajo, donde el clima que predomina es de colaboración, más que en ambientes donde rige la competencia entre individuos.
 
 ### Prácticas

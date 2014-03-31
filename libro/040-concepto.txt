@@ -16,16 +16,16 @@ Dar espacio
 :  El docente, aún cuando está presentando los conceptos, debe actuar saliendo del centro de la escena. Para que los estudiantes puedan incorporar los conceptos, debemos dar lugar a que analicen lo aprendido y que haya interacción de a pares o en grupo. Por ejemplo, cuando un alumno pregunta, en vez de responder inmediatamente indicamos "antes de responder, me gustaría escuchar tres respuestas de uds.".
 
 Variar formato
-: Cambiar la forma en que presentamos los conceptos ayuda al aprendizaje. Podemos ver juntos un video, contar una historia (*storytelling*), explicar por medio de un dibujo, dar un texto para ser leído.
+: Cambiar la forma en que presentamos los conceptos ayuda al aprendizaje. Podemos ver juntos un video, contar una historia[^storytelling], explicar por medio de un dibujo, dar un texto para ser leído.
+
+[^storytelling]: El arte de contar historias de manera que atrape a la audiencia. Más información en el capítulo de Estilos y herramientas.
 
 
 
 
 
-
-
-A> Fernando Claverino nos cuenta: *Una vez estaba dando una charla de 1ros auxilios para chicos de un grupo scout. Estaba contando que la inflamación es un mecanismo de compensatorio que activa el cuerpo para mandar nutrientes a la zona lesionada. Entonces un nene levantó la mano y dijo: ¿es como que el cuerpo manda camiones con gente que va a arreglar lo que está roto?*
+A> Fernando Claverino nos cuenta: *Una vez estaba dando una charla de 1ros auxilios para chicos de un grupo scout. Estaba contando que la inflamación es un mecanismo compensatorio que activa el cuerpo para mandar nutrientes a la zona lesionada. Entonces un nene levantó la mano y dijo: ¿es como que el cuerpo manda camiones con gente que va a arreglar lo que está roto?*
 A>
-A> El nene sintió que tenía el lugar para dar una explicación alternativa del concepto con sus palabras le sirvió a él, ya que al verbalizarlo lo recordará más, y a sus compañeros ya que facilitó la relación entre el concepto y las experiencias y lenguaje de ellos.
+A> El nene sintió que tenía el lugar para dar una explicación alternativa del concepto con sus palabras. Le sirvió a él, ya que al verbalizarlo lo recordará más, y a sus compañeros ya que facilitó la relación entre el concepto y las experiencias y lenguaje de ellos.
 
 ![Facilitación gráfica realizada durante la presentación de un concepto](images/concepto_1.jpg)
