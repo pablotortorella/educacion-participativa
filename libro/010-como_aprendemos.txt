@@ -14,7 +14,7 @@ En este momento hay consenso (ver [Ágil Mente](#bibliografia) y [Training from 
 
 Algunas consecuencias de esto es que podemos facilitar el aprendizaje si logramos que los estudiantes relacionen los nuevos conceptos con los conocimientos previos que *cada uno de ellos* tiene. No es efectivo si tratamos de hacer la conexión nosotros por ellos.
 
-Otra consecuencia es que sólo podemos aprender efectivamente si nos interesa, ya que el 'trabajo' de hacer la conexión con lo conocido es algo que sólo puede hacer cada uno. La curiosidad juega en este proceso, según Paulo Freire en [Pedagogía de la Autonomía](#bibliografia), un rol fundamental.
+Otra consecuencia es que sólo aprender efectivamente si nos interesa, ya que el 'trabajo' de hacer la conexión con lo conocido es algo que debe hacer cada uno. La curiosidad juega en este proceso, según Paulo Freire en [Pedagogía de la Autonomía](#bibliografia), un rol fundamental.
 
 
 ### No todos somos iguales
@@ -28,7 +28,7 @@ Dependiendo del tipo de conocimiento o capacidad que queremos aprender y nuestra
 
 Luego que nos dicen un número de teléfono, ¿lo recordamos?, ¿y luego de 15 minutos?, ¿mañana?
 
-Tenemos distintos tipos de memoria, y lo que aprendimos, podemos olvidarlo con mayor o menor rapidez. Esta característica se investigó y se sigue investigando, no habiendo un entendimiento completo de cómo funciona nuestra memoria, pero hay una serie de características conocidas con la memoria:
+Tenemos distintos tipos de memoria, y lo que aprendimos, podemos olvidarlo con mayor o menor rapidez. Esta característica se investigó y se sigue investigando, no habiendo un entendimiento completo de cómo funciona nuestra memoria, pero hay una serie de características conocidas sobre la memoria:
 
 Último y primero
 : Las secuencias largas son difíciles de recordar, ya sea que las escuchemos, las veamos o las sintamos. Cuando ocupamos toda nuestra memoria de corto plazo, el nuevo conocimiento desplaza parte de la información. Tenemos una tendencia a recordar primordialmente la última parte de la secuencia, después la primera parte, y lo que menos recordamos es la parte el medio de la secuencia. Si querés comprobarlo, tomá una lista de más de 20 de nombres o números y, luego de leerlos, anotá los que te acordás. 
@@ -40,7 +40,7 @@ Repetición
 : Al repetir lo aprendido ayudamos a su memorización. Mejor aún si lo hacemos desde distintos puntos de vista y actividades (ejercicios, resúmenes, explicación a otros). Por ejemplo, en el aprendizaje de un idioma, luego de haber aprendido una palabra o construcción gramatical, usarlo continuamente en los días subsiguientes te ayudará a incorporarlo definitivamente a tu vocabulario.
 
 Dibujar
-: Para muchos estudiantes realizar un resumen gráfico de los conceptos, relacionándolos espacialmente y buscando representaciones visuales, facilita la retención. El proceso de buscar una equivalencia visual o símbolo, como también pensar en las relaciones con los otros es conceptos es un ejemplo del patrón recurrente que ayuda al aprendizaje: relacionar con conocimientos pasados, expresar con otros términos.
+: Muchos estudiantes logran mayor retención al realizar un resumen gráfico de los conceptos, relacionándolos espacialmente y buscando representaciones visuales. El proceso de buscar una equivalencia visual o símbolo, como también pensar en las relaciones con los otros conceptos, es un ejemplo del patrón recurrente que ayuda al aprendizaje: relacionar con conocimientos pasados, expresar lo recientemente aprendido con otros términos.
 
 ## ¿Ayuda o dificulta...?
 
@@ -50,7 +50,7 @@ Espacio seguro
 : Un ambiente donde podemos experimentar con ideas y acciones nuevas sin riesgos grandes facilita que vayamos más allá de nuestros límites. La seguridad tiene aspectos emocionales y físicos, por ejemplo si pensamos que nuestros compañeros se burlarán de nuestros errores o si estamos aprendiendo a manejar un automóvil y estamos en una calle con mucho tránsito. 
 
 Riqueza sensorial
-: El aprendizaje sólo se produce cuando prestamos atención, y no podemos prestar atención a un sólo estimulo sensorial por mucho tiempo. Para mantenernos enfocados debemos variar entre actividades visuales, auditivas y cinéticas, tener un ambiente colorido, escuchar y hablar, enseñar y aprender, resumir y contar historias, estar sentados, parados o caminar.
+: El aprendizaje solamente se produce cuando prestamos atención, y no podemos prestar atención a un solo estimulo sensorial por mucho tiempo. Para mantenernos enfocados debemos variar entre actividades visuales, auditivas y cinéticas, tener un ambiente colorido, escuchar y hablar, enseñar y aprender, resumir y contar historias, estar sentados, parados o caminar.
 
 Exceso sensorial
 : Mucho ruido o variaciones visuales muy rápidas son negativas para el aprendizaje. Buscamos un balance con respecto al punto anterior, y este balance es distinto para cada persona.

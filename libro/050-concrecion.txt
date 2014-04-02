@@ -1,11 +1,11 @@
-# Concreción
+## Concreción
 
 También denominado "Práctica Concreta", es el momento del curso en la cual los alumnos utilizan los conceptos, los llevan a la acción en primera persona.
 
 Es entonces en la concreción, cuando los alumnos tienen la oportunidad de demostrarse -a sí mismos y a sus compañeros- si entendieron fehacientemente los detalles esenciales del contenido.
 
 
-## Acerca de la Reflexión y la creación
+### Acerca de la Reflexión y la creación
 
 Freire habla acerca de dar lugar a la creación por parte de los educandos, como acción necesaria en el proceso de aprendizaje, y no solamente de impartir conocimientos. En ese sentido, es también en este momento en el cual se genera ese espacio que posibilita a los alumnos, descubrir detalles del objeto de estudio que en etapas anteriores quedaban ocultos y re-descubrir la implicancia subjetiva de los mismos, para con sus contextos particulares.
 Por ejemplo, si estamos practicando la escritura compartida de un libro (con el lenguaje común y el estilo como conceptos clave), puede proponerse a los alumnos que se reúnan en parejas y que ambos integrantes escriban temas relacionados entre sí, que deberán conformar un único texto. Algunas parejas escribirán inicialmente por separado y luego reunirán los textos y unificarán estilos; otras definirán el vocabulario específico y el tiempo verbal de antemano, otros lo irán haciendo durante la escritura misma, leyendo uno y otro texto en estadíos intermedios.
@@ -13,12 +13,15 @@ Esta actividad puede llevar a los alumnos, a reflexionar sobre la importancia de
 
 Volviendo a Freire, la creación aparece en el ejemplo en dos niveles: la escritura de un texto que antes no existía, en primera instancia, y luego el descubrimiento de nuevos parámetros a tener en cuenta durante el proceso de escritura conjunta.
 
-## Acerca de la interacción
+### Acerca de la interacción
 
 Creemos que la importancia de la interacción de los alumnos, no solamente con el facilitador o educador, sino también entre ellos, resulta clave en el proceso cognitivo. Desde varias corrientes teóricas se resalta este aspecto social del aprendizaje, reconocible en grupos de alumnos de jardín de infantes, así como también entre hermanos y amigos desde la infancia misma.
+
+En el capítulo Re-education del libro [The social life of information](#bibliografia), se comenta el método TVI (tutored video instruction), en el que se realiza enseñanza con videos, pero con la condición que sean vistos en grupo, y discutidos entre los miembros del grupo hasta lograr un entendimiento común.
+
 Lev Vygotsky, un psicólogo ruso especialista en psicología del desarrollo, plantea este tema desde su disciplina, identificándolo como "Zona de desarrollo próximo". Resumido en pocas palabras, plantea que un alumno aprovechará mejor su potencial para aprender, si interactúa con sus colegas de aprendizaje, además del tradicional vínculo con el educador. Asimismo, afirma que esto también es válido para la actividad laboral: un empleado será más productivo y su trabajo tendrá más calidad si hay interacción con sus pares, además del vínculo con su jefe. Se trata de un mayor aprovechamiento del potencial de los individuos, dado por el apalancamiento de su contexto. Vemos cumplirse esta teoría sobre todo en equipos auto-organizados de estudio y de trabajo, donde el clima que predomina es de colaboración, más que en ambientes donde rige la competencia entre individuos.
 
-## Prácticas
+### Prácticas
 
 Hacer
 : Si estamos aprendiendo a programar, en esta etapa los alumnos serán invitados a programar. Si estamos aprendiendo una metodología, entonces se propondrá una situación con un objetivo puntual y que los alumnos deban intentar resolverlo utilizando dicha metodología. De igual manera, si el objeto de estudio fuera algo técnico, se propondrá uno o más ejercicios -tal vez crecientes en complejidad- que requieran de la utilización de dicha cuestión técnica.

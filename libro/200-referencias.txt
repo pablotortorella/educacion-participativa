@@ -8,17 +8,17 @@
 Training from the Back of the Room
 : Sharon Bowman, Pfeiffer, 2008
 
-Pedagogía de la Autonomía
-: Paulo Freire, Paz e Terra, 1998
-
 The Social Life of Information:
 : John Seely Brown, Paul Duguid,Harvard Business Review Press,2000
 
-Leading Lean Software Development
-: Mary y Tom Poppendieck, Addison-Wesley Professional, 2009
+Pedagogía de la Autonomía
+: Paulo Freire, Paz e Terra, 1998
 
 Software for Your Head: Core Protocols for Creating and Maintaining Shared Vision
-: Jim McCarthy, Michele McCarthy 
+: Jim McCarthy, Michele McCarthy, Addison-Wesley Professional, 2002
+
+Leading Lean Software Development
+: Mary y Tom Poppendieck, Addison-Wesley Professional, 2009
 
 ## Referencias y material adicional##
 

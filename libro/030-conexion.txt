@@ -1,4 +1,4 @@
-# Conexión
+## Conexión
 
 El aprendizaje puede mejorarse mucho si creamos puentes entre nuestro conocimiento previo y lo que queremos aprender y con las personas que participan con nosotros en la experiencia del aprendizaje.
 
@@ -15,7 +15,7 @@ Objetivos personales
 : Cuando las personas están aprendiendo temas que les interesan, prestan más atención. Y esta es una condición necesaria para el aprendizaje. Les darán importancia a los resultados del aprendizaje y al tema.
 
 El tema
-: La mayoría de los estudiantes ya sabrán algo del tema. Al tener la posibilidad de escribir, conversar o explicar lo que saben les permitirá aprender mejor porque construirán el nuevo conocimiento conectado con el existente, reforzado o corrigiendo lo que ya saben e incorporando nueva información y habilidades. Si tratamos de aprender algo que nos es ajeno, no podemos siquiera mantener la atención ("esto es chino para mí").
+: La mayoría de los estudiantes ya sabrán algo del tema. Al tener la posibilidad de escribir, conversar o explicar lo que saben les permitirá aprender mejor porque construirán el nuevo conocimiento conectado con el existente, reforzado o corrigiendo lo que ya saben e incorporando nueva información y habilidades. Es muy difícil aprender algo que nos es totalmente ajeno, sobre lo que no tenemos ninguna experiencia previa, al punto que no podemos siquiera mantener la atención.
 
 W> **Romper el hielo no es conexión**
 W>
@@ -24,8 +24,7 @@ W>
 W> Y eso es un pérdida del valioso tiempo de capacitación. ¿Podemos hacer una actividad que conecte a los estudiantes y al mismo tiempo los conecte con el tema o con los resultados del aprendizaje?
 
 
-
-
+    
 
 X> **Analiza este ejemplo de actividad de conexión**
 X>

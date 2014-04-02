@@ -5,5 +5,8 @@
 040-concepto.txt
 050-concrecion.txt
 060-conclusion.txt
+100-medios.txt
+130-evaluacion.txt
+150-mejorando.txt
 170-apendices.txt
 200-referencias.txt
