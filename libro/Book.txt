@@ -6,6 +6,8 @@
 050-concrecion.txt
 060-conclusion.txt
 100-medios.txt
+105-facilitacion_grafica.txt
+125-storytelling.txt
 130-evaluacion.txt
 150-mejorando.txt
 170-apendices.txt
