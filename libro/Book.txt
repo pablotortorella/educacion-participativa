@@ -7,6 +7,9 @@
 060-conclusion.txt
 100-medios.txt
 105-facilitacion_grafica.txt
+110-audiovisual.txt
+115-ludicas.txt
+120-musica.txt
 125-storytelling.txt
 130-evaluacion.txt
 150-mejorando.txt

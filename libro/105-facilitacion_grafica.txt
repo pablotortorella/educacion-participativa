@@ -1,12 +1,12 @@
-#Facilitación Gráfica
+## Facilitación Gráfica
 
-"Había pasado media hora de clase, cuando una alumna me preguntó la relación entre el tema que estábamos viendo con lo primero que habíamos conversado ese día. Miré la pantalla de mi notebook y luego la imagen proyectada en la pared del aula. Nuevamente mi notebook, nuevamente la proyección y finalmente a la alumna.
-La pregunta era útil, me permitiría explicar más en detalle un enlace conceptual fundamental... pero no lo había planificado; No había tenido en cuenta -a la hora de planificar la clase- que podría aparecer esa pregunta en ese momento.
-Fue entonces que me decidí: me lancé sobre el teclado y viajé a través de la presentación de diapositivas hacia el comienzo, pasando una tras otra, todas las imágenes, textos, fotos, mapas mentales y demás láminas que cuidadosamente había seleccionado para poder dar esa clase de la mejor manera posible, utilizando la tecnología disponible a mi favor y el de mis alumnos.
-
-Ahí me di cuenta de algo: que para explicar ese vínculo, debía volver a utilizar el pizarrón, el olvidado pizarrón.
-
-Desde la siguiente mañana en adelante, empecé a llevar en mi bolsillo un marcador negro y en mi mochila un anotador con hojas blancas; Y mis clases no tienen más presentaciones de diapositivas."
+A>Había pasado media hora de clase, cuando una alumna me preguntó la relación entre el tema que estábamos viendo con lo primero que habíamos conversado ese día. Miré la pantalla de mi notebook y luego la imagen proyectada en la pared del aula. Nuevamente mi notebook, nuevamente la proyección y finalmente a la alumna.
+A>La pregunta era útil, me permitiría explicar más en detalle un enlace conceptual fundamental... pero no lo había planificado; No había tenido en cuenta -a la hora de planificar la clase- que podría aparecer esa pregunta en ese momento.
+A>Fue entonces que me decidí: me lancé sobre el teclado y viajé a través de la presentación de diapositivas hacia el comienzo, pasando una tras otra, todas las imágenes, textos, fotos, mapas mentales y demás láminas que cuidadosamente había seleccionado para poder dar esa clase de la mejor manera posible, utilizando la tecnología disponible a mi favor y el de mis alumnos.
+A>
+A>Ahí me di cuenta de algo: que para explicar ese vínculo, debía volver a utilizar el pizarrón, el olvidado pizarrón.
+A>
+A>Desde la siguiente mañana en adelante, empecé a llevar en mi bolsillo un marcador negro y en mi mochila un anotador con hojas blancas; Y mis clases no tienen más presentaciones de diapositivas."
 
 
 La Facilitación Gráfica es una técnica útil para comunicar visualmente ideas, para facilitar el entendimiento profundo de temas complejos, para poder tomar decisiones más rápidamente... para entendernos mejor.
@@ -16,14 +16,23 @@ Tiene sus orígenes allá lejos, cuando los primeros hombres empezaron a rayar p
 Hoy en día, miles de facilitadores gráficos y documentadores visuales están volviendo a dar visibilidad (valga la redundancia), alrededor de todo el mundo, a este arte tan primitivo y básico, pero no por eso menos poderoso, que involucra a un papel, algunos lápices de colores (o marcadores, rotuladores, crayones, tizas) y al ojo humano.
 
 Los elementos básicos que usamos durante una presentación, como parte esencial de una lámina realizada con Facilitación Gráfica, son:
+
 - Texto
+
 - Flechas
+
 - Formas simples: puntos, líneas, círculos, cuadrados y triángulos.
+
 - Símbolos
+
 - Viñetas y enumeraciones
+
 - Personas
+
 - Efectos: sombra, movimiento, dobleces, perspectiva
+
 - Colores (¡y también el blanco y el negro!)
+
 - Lugares
 
 Combinar estos elementos a medida que se explica un concepto o una actividad, potencia la atención que prestan los alumnos y habilita que los  mismos tengan un canal más activado: el visual, además del auditivo (si estamos conversando) y el kinestésico (si llevamos adelante alguna actividad práctica).
@@ -31,4 +40,3 @@ Combinar estos elementos a medida que se explica un concepto o una actividad, po
 Esta percepción que tienen los alumnos, de la creación en vivo y en directo de la explicación visual de los conceptos que se están conversando, genera mayor recordación en la mayoría de ellos. Es decir que a futuro, recordarán con mayor intensidad ese tema y los detalles de dicha conversación, en comparación con haber solamente oido la clase, así haya sido complementada con una o varias fotos, gráficos o imágenes.
 
 No se necesita saber dibujar para llevar adelante esta técnica. Sólo se requiere práctica y más práctica. La perseverancia es clave aquí, como también en casi cualquier otra disciplina.
-
