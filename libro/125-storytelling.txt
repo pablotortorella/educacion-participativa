@@ -2,7 +2,7 @@
 ## Contar historias (Storytelling)
 
 Durante mucho tiempo la única forma de transmitir la historia y la cultura de un grupo fue a través de la transmisión oral.
-La Illiada y la Odisea tienen ??? palabras, y sin embargo se transmitieron de generación en generación sin otro soporte que la memoria humana.
+La Illiada y la Odisea tienen cada una más de 10000 lineas de versos, y sin embargo se transmitieron de generación en generación inicialmente sin otro soporte que la memoria humana.
 Actualmente estamos acostumbrados a disponer de infinita cantidad de información en formato de texto y la capacidad de consultar casi cualquier cosa en los buscadores de Internet. Sin embargo, información no es conocimiento. Y que podamos encontrar un texto no significa que incorporemos las ideas contenidas en el mismo.
 ¿Qué hace que una información sea memorable, que lo incorporemos a nuestras decisiones, que afecte nuestras acciones?
 
