@@ -25,7 +25,7 @@ En el resto del capítulo comentaremos más sobre las 4C, pero antes, debemos ha
 
 ## Objetivos y audiencia
 
-Antes de planear el curso, debemos pensar en cuales son los objetivos mínimos de la capacitación y cuanto saben los asistentes sobre estos objetivos.
+Antes de planear el curso, debemos pensar en cuáles son los objetivos mínimos de la capacitación y cuánto saben los asistentes sobre estos objetivos.
 
 ### Objetivos
 Según [The Social Life of Information](#bibliografia), podemos tener dos tipos de conocimiento:
@@ -54,13 +54,13 @@ Un aspecto importante es cuánto saben los asistentes del tema. Esto influirá l
 Un modelo de los estadíos de estudiante es Shu-ha-ri[^Shuhari]:
 
 Shu
-: El estudiante no sabe nada y debe aprender lo básico, siguiendo las reglas al pie de la letra. No tiene capacidad para comprender las motivaciones de las reglas. Seguirá en Shu hasta que domine y tenga incorporadas las habilidades básicas. En el ámbito laboral, una persona que está en Shu puede hacer trabajos en los que estén claros los pasos y ante imprevistos debe consultar con alguien de más experiencia, pero no siempre pide ayuda. Por ello el mentor o maestro debe estar atento para ayudar al alumno a detectar los bloqueos o situaciones que se apartan de las reglas. En Karate Kid, es momento en que el maestro le indica como [limpiar el auto](http://www.youtube.com/watch?v=SMCsXl9SGgY).
+: El estudiante no sabe nada y debe aprender lo básico, siguiendo las reglas al pie de la letra. No tiene capacidad para comprender las motivaciones de las reglas. Seguirá en Shu hasta que domine y tenga incorporadas las habilidades básicas. En el ámbito laboral, una persona que está en Shu puede hacer trabajos en los que estén claros los pasos y ante imprevistos debe consultar con alguien de más experiencia, pero no siempre pide ayuda. Por ello el mentor o maestro debe estar atento para ayudar al alumno a detectar los bloqueos o situaciones que se apartan de las reglas. En Karate Kid, es momento en que el maestro le indica cómo [limpiar el auto](http://www.youtube.com/watch?v=SMCsXl9SGgY).
 
 Ha
 : El estudiante debe ir más allá de las reglas, extenderlas, aprender reglas (técnicas) nuevas. Entiende la motivación de las reglas, y ante una situación puede elegir que reglas o prácticas son más apropiadas. Ante situaciones inesperadas, puede buscar alternativas, y pedir ayuda. En Karate Kid, cuando aprende la [técnica de la grulla](http://www.youtube.com/watch?v=aRqKBaoCs2w).
 
 Ri
-: Es ya un maestro (en el sentido de maestro artesano), no está atado a las reglas. No necesita reglas, ante una situación novedosa hace 'lo que es apropiado', crea nuevas técnicas a medida que las necesita y tiene dificultad en explicar el por qué,  En Karate Kid, se puede ver en la escena en que Miyagi [defiende al alumno de la otra escuela](http://www.youtube.com/watch?v=27qp189oiFo).
+: Es ya un maestro (en el sentido de maestro artesano), no está atado a las reglas. No necesita reglas, ante una situación novedosa hace 'lo que es apropiado', crea nuevas técnicas a medida que las necesita y tiene dificultad en explicar el porqué,  En Karate Kid, se puede ver en la escena en que Miyagi [defiende al alumno de la otra escuela](http://www.youtube.com/watch?v=27qp189oiFo).
 
 I> ### Otros modelos de aprendizaje
 I>
@@ -73,7 +73,7 @@ I> * Modelo Dreyfus
 
 ## Las 4C
 
-Las 4C son una guía para organizar el curso. Se plantea una secuencia de conexión, normalmente algo corto (menos de 5 minutos), seguido del concepto (aproximadamente 15 minutos), luego la aplicación práctica de lo aprendido.
+Las 4C (Conexión, Concepto, práctica Concreta y Conclusión) son una guía para organizar el curso. Se plantea una secuencia de conexión, normalmente algo corto (menos de 5 minutos), seguido del concepto (aproximadamente 15 minutos), luego la aplicación práctica de lo aprendido.
 Se finaliza el tema con un resumen, o un llamado a la acción, por ejemplo que cada estudiante piense 'qué planeo llevar a la práctica'.
 
 Esta forma de planificar lleva que la clase tenga un flujo y continuidad dentro de cada tema. Pero ese flujo no necesariamente surge de nuestro primer intento.
