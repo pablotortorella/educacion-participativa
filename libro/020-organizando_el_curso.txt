@@ -73,7 +73,7 @@ I> * Modelo Dreyfus
 
 ## Las 4C
 
-Las 4C (Conexión, Concepto, práctica Concreta y Conclusión) son una guía para organizar el curso. Se plantea una secuencia de conexión, normalmente algo corto (menos de 5 minutos), seguido del concepto (aproximadamente 15 minutos), luego la aplicación práctica de lo aprendido.
+Las 4C (Conexión, Concepto, Concreción y Conclusión) son una guía para organizar el curso. Se plantea una secuencia de conexión, normalmente algo corto (menos de 5 minutos), seguido del concepto (aproximadamente 15 minutos), luego la aplicación práctica de lo aprendido.
 Se finaliza el tema con un resumen, o un llamado a la acción, por ejemplo que cada estudiante piense 'qué planeo llevar a la práctica'.
 
 Esta forma de planificar lleva que la clase tenga un flujo y continuidad dentro de cada tema. Pero ese flujo no necesariamente surge de nuestro primer intento.

@@ -1,12 +1,21 @@
 -- Must --
-Conexión en cada capitulo
+
+Presentación
+  Refactor del contexto: agregar Sena y mencionar el curso, pero no así como está.
+  "About" -> ponerlo dentro del libro (destinatarios del libro).
+Conexión en cada capitulo -> en un marco (visualmente claro) diferente del texto.
+Tabla de contenidos? para las categorías propuetsas en "Aprendemos, y recordamos?"
 Un ejercicio (concreción/conclusión) en cada capítulo
 Un dibujo / foto por capítulo
+Un capítulo grueso y otro finito
+"Emociones" tiene poco contenido, en comparación a los otros items de ese listado 
 Evaluación
 Audiovisl
 Actividad Ludica y Gamification
 Musica
 
+-- A definir
+Prólogo?
 
 -- Nice to have --
 Video de difusión
