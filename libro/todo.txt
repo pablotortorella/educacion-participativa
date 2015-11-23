@@ -3,14 +3,28 @@
 Presentación
   Refactor del contexto: agregar Sena y mencionar el curso, pero no así como está.
   "About" -> ponerlo dentro del libro (destinatarios del libro).
-Conexión en cada capitulo -> en un marco (visualmente claro) diferente del texto.
-Tabla de contenidos? para las categorías propuetsas en "Aprendemos, y recordamos?"
-Un ejercicio (concreción/conclusión) en cada capítulo
-Un dibujo / foto por capítulo
-Un capítulo grueso y otro finito
-"Emociones" tiene poco contenido, en comparación a los otros items de ese listado 
+  Acerca de los autores (tomar de la página leanpub al libro)
+  Definir terminología: Aprendizaje / enseñanza, participante / alumno
+  Definir desde que posición y a quien hablamos. Al docente.
+Citas bibliográfica (consultar con Ale)
+
+Por cada capítulo
+  Conexión -> en un marco (visualmente claro) diferente del texto.
+  Un ejercicio (concreción/conclusión) en cada capítulo
+  Un dibujo / foto por capítulo
+  Revisar tamaño -> Un capítulo grueso y otro finito
+  
+Tabla de contenidos? 
+  para las categorías propuestas en "Aprendemos, y recordamos?"
+  "Emociones" tiene poco contenido, en comparación a los otros items de ese listado 
+
+Verificar
+  afirmaciones fuertes e innecesarias.
+  Mantener el destinatario.
+
+  
 Evaluación
-Audiovisl
+Audiovisual
 Actividad Ludica y Gamification
 Musica
 
