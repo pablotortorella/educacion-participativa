@@ -1,5 +1,48 @@
-# Introducción
+# Acerca de este libro
 
+¿Hay formas mejores de organizar espacios de aprendizaje para que los alumnos se interesen, mantengan la atención y luego recuerden y apliquen lo apendido?
+
+¿Cuánto tiempo dedicás a hablar durante una clase y cuánto corresponde a participación de los alumnos?
+
+En este libro presentamos formas novedosas de enseñar y organizar los cursos, con prácticas y ejemplos que podrás aplicar inmediatamente en tus clases.
+
+# Sobre los autores
+Somos docentes que hemos trabajado en diversos contextos: educación universitaria, educación media (también llamada secundaria, bachillerato o liceo) y entornos empresariales. 
+
+En ese camino, encontramos técnicas y prácticas que nos han ayudado a facilitar procesos de aprendizaje más conscientes y decidimos compartirlas para potenciar el quehacer de nuestros colegas del mundo.
+
+Nos gustaría que este libro también sirva para iniciar un diálogo con nuestros lectores que nos permita a todos enriquecernos a partir de sus conocimientos y experiencias educativas. Para esto, les compartimos nuestros datos de contacto:
+* Juan Gabardini: <juan.gabardini@kleer.la>
+* Pablo Tortorella: <pablo.tortorella@kleer.la>
+
+## Sobre Pablo Tortorella
+Entusiasta; ingeniero en informática; jugador de equipo; apasionado por el arte, la música, el desarrollo de software, el fútbol y la actividad comunitaria.
+
+Formo parte de Kleer y de la Comunidad Ágil Latinoamericana y acompaño a personas y equipos que quieren trabajar mejor.
+
+A partir de una fuerte vocación por compartir conocimientos -presente en mí desde temprana edad-, soy docente en la Universidad de Buenos Aires (UBA) y en la Universidad Nacional Tres de Febrero (UNTREF); y tal vez por esa misma razón es que soy ferviente usuario de GNU+Linux.
+
+Me gusta también compartir momentos con mi novia, mis amigos, mi familia, mis colegas, mis alumnos, mis profesores... y aprender cosas nuevas!
+
+Pablo Tortorella - http://about.me/pablitux
+
+Blog - http://pablotortorella.wordpress.com
+
+Kleer - http://www.kleer.la
+## Sobre Juan Gabardini
+Disfruto enormemente trabajando en ambientes innovadores como parte de equipos que tienen autonomía, conocimiento y objetivos. Luego de haber experimentado el respeto, aprendizaje y desafíos de esos equipos, es difícil contentarse con menos. Busco armar ese tipo de equipos en los proyectos en los que participo.
+
+Participo en equipos de desarrollo de software desempeñando diferentes roles, quizás con un mayor énfasis en temas de calidad y testing.
+
+Llevo esta forma de trabajo otros ámbitos, como a la educación, en particular en el ámbito universitario (FI-UBA, UNTREF).
+
+Blog: http://softwareagil.blogspot.com
+
+Kleer: http://kleer.la
+
+Más: http://about.me/juangabardini
+
+# Introducción
 Este libro es un complemento y referencia de los cursos brindados por Kleer sobre Educación Participativa.
 
 En los cursos se realizan prácticas y actividades que no están incluidas aquí. No es una guía para facilitadores. Si te interesa facilitar talleres o cursos sobre estos temas, contactanos y te ayudaremos en lo que podamos.
@@ -8,7 +51,5 @@ Por otro lado, en este libro hay referencias y material que pueden no darse en e
 
 En cuanto a terminología, utilizaremos indistintamente los términos alumno, educando, estudiante y participante.
 
-Consideramos este libro en continua mejora y te pedimos que nos des tu opinión, consejos y sugerencias. Nos encontrás en:
 
-* Juan Gabardini: <juan.gabardini@kleer.la>
-* Pablo Tortorella: <pablo.tortorella@kleer.la>
+
