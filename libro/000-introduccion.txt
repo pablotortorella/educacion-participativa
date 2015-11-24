@@ -4,9 +4,11 @@
 
 ¿Cuánto tiempo dedicás a hablar durante una clase y cuánto corresponde a participación de los alumnos?
 
-En este libro presentamos formas novedosas de enseñar y organizar los cursos, con prácticas y ejemplos que podrás aplicar inmediatamente en tus clases.
+Creemos que es escencial el protagonismo de los alumnos durante todo el proceso de aprendizaje. Es por ello que llamamos a este libro **Enseñanza Participativa**.
 
-# Sobre los autores
+Aquí te presentamos formas novedosas de enseñar y organizar los cursos, con prácticas y ejemplos que podrás aplicar inmediatamente en tus clases.
+
+# Acerca de los autores
 Somos docentes que hemos trabajado en diversos contextos: educación universitaria, educación media (también llamada secundaria, bachillerato o liceo) y entornos empresariales. 
 
 En ese camino, encontramos técnicas y prácticas que nos han ayudado a facilitar procesos de aprendizaje más conscientes y decidimos compartirlas para potenciar el quehacer de nuestros colegas del mundo.
@@ -15,7 +17,7 @@ Nos gustaría que este libro también sirva para iniciar un diálogo con nuestro
 * Juan Gabardini: <juan.gabardini@kleer.la>
 * Pablo Tortorella: <pablo.tortorella@kleer.la>
 
-## Sobre Pablo Tortorella
+## Acerca de Pablo Tortorella
 Entusiasta; ingeniero en informática; jugador de equipo; apasionado por el arte, la música, el desarrollo de software, el fútbol y la actividad comunitaria.
 
 Formo parte de Kleer y de la Comunidad Ágil Latinoamericana y acompaño a personas y equipos que quieren trabajar mejor.
@@ -29,7 +31,8 @@ Pablo Tortorella - http://about.me/pablitux
 Blog - http://pablotortorella.wordpress.com
 
 Kleer - http://www.kleer.la
-## Sobre Juan Gabardini
+
+## Acerca de Juan Gabardini
 Disfruto enormemente trabajando en ambientes innovadores como parte de equipos que tienen autonomía, conocimiento y objetivos. Luego de haber experimentado el respeto, aprendizaje y desafíos de esos equipos, es difícil contentarse con menos. Busco armar ese tipo de equipos en los proyectos en los que participo.
 
 Participo en equipos de desarrollo de software desempeñando diferentes roles, quizás con un mayor énfasis en temas de calidad y testing.
@@ -41,15 +44,3 @@ Blog: http://softwareagil.blogspot.com
 Kleer: http://kleer.la
 
 Más: http://about.me/juangabardini
-
-# Introducción
-Este libro es un complemento y referencia de los cursos brindados por Kleer sobre Educación Participativa.
-
-En los cursos se realizan prácticas y actividades que no están incluidas aquí. No es una guía para facilitadores. Si te interesa facilitar talleres o cursos sobre estos temas, contactanos y te ayudaremos en lo que podamos.
-
-Por otro lado, en este libro hay referencias y material que pueden no darse en el curso, por ser material complementario o más profundo.
-
-En cuanto a terminología, utilizaremos indistintamente los términos alumno, educando, estudiante y participante.
-
-
-
