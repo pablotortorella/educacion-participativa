@@ -1,12 +1,15 @@
 -- Must --
 
-Presentación
-  Refactor del contexto: agregar Sena y mencionar el curso, pero no así como está.
-  "About" -> ponerlo dentro del libro (destinatarios del libro).
-  Acerca de los autores (tomar de la página leanpub al libro)
+Intro
+  Comentar origen Sena y mencionar el curso, pero no así como está.
+  Agradecimientos
   Definir terminología: Aprendizaje / enseñanza, participante / alumno
-  Definir desde que posición y a quien hablamos. Al docente.
+  Definir desde que posición y a quien hablamos. Al docente. Aclararlo en la intro
+  Espacio de aprendizaje: ej cursos, clases, presentaciones, materias
+
 Citas bibliográfica (consultar con Ale)
+
+Glosario
 
 Por cada capítulo
   Conexión -> en un marco (visualmente claro) diferente del texto.
@@ -22,11 +25,13 @@ Verificar
   afirmaciones fuertes e innecesarias.
   Mantener el destinatario.
 
-  
+-- Otras ideas --  
 Evaluación
 Audiovisual
 Actividad Ludica y Gamification
 Musica
+Capitulo para coordinadores o mentores de docentes
+Retro / elección de contenidos / Planificación de la materia
 
 -- A definir
 Prólogo?
